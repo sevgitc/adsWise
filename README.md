@@ -28,16 +28,12 @@ This is a relational database system designed for managing advertisement posting
 
 ## 📂 File Structure
 ```
-campus-ad-management-sql/
+adsWise/
 ├── schema/
 │   ├── 1_create_tables.sql
 │   ├── 2_insert_data.sql
-│   └── 3_drop_tables.sql
-│
-├── queries/
-│   ├── select_queries.sql
-│   ├── views.sql
-│   └── updates_deletes.sql
+│   ├── 3_drop_tables.sql
+│   └── 4_queries.sql
 │
 ├── documentation/
 │   └── Project_Report.pdf
@@ -52,10 +48,9 @@ campus-ad-management-sql/
 ## 🔗 Key Files
 
 - [`1_create_tables.sql`](schema/1_create_tables.sql): SQL DDL scripts for table creation  
-- [`2_insert_data.sql`](schema/2_insert_data.sql): Sample data insertion scripts  
-- [`select_queries.sql`](queries/select_queries.sql): Queries for insights & analysis  
-- [`views.sql`](queries/views.sql): View creation logic for dashboards and abstraction  
-- [`updates_deletes.sql`](queries/updates_deletes.sql): Data update and cleanup scripts  
+- [`2_insert_data.sql`](schema/2_insert_data.sql): Sample data insertion scripts
+- [`3_drop_tables.sql`](schema/3_drop_tables.sql): Sample data insertion scripts  
+- [`4_queries.sql`](schema/4_queries.sql): Queries for insights & analysis    
 - [`Project_Report.pdf`](documentation/Project_Report.pdf): Full project documentation  
 - `er_diagram.png`: Visual representation of the EER model
 
