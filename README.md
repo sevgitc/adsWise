@@ -38,7 +38,7 @@ adsWise/
 ├── documentation/
 │   └── Project_Report.pdf
 │
-├── er_diagram.png
+├── eer_diagram.png
 └── README.md
 ```
 
@@ -52,7 +52,7 @@ adsWise/
 - [`3_drop_tables.sql`](schema/3_drop_tables.sql): Sample data insertion scripts  
 - [`4_queries.sql`](schema/4_queries.sql): Queries for insights & analysis    
 - [`Project_Report.pdf`](documentation/Project_Report.pdf): Full project documentation  
-- `er_diagram.png`: Visual representation of the EER model
+- `eer_diagram.png`: Visual representation of the EER model
 
 ---
 
